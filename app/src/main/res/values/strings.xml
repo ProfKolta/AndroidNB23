@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">NB23</string>
+    <string name="button_text">Meme</string>
+    <string name="top_text">Top</string>
+    <string name="bottom_text">Bottom</string>
 </resources>
